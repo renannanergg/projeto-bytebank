@@ -1,0 +1,14 @@
+C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\bin\Debug\net9.0\projeto-bytebank.exe
+C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\bin\Debug\net9.0\projeto-bytebank.deps.json
+C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\bin\Debug\net9.0\projeto-bytebank.runtimeconfig.json
+C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\bin\Debug\net9.0\projeto-bytebank.dll
+C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\bin\Debug\net9.0\projeto-bytebank.pdb
+C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\obj\Debug\net9.0\projeto-bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\obj\Debug\net9.0\projeto-bytebank.AssemblyInfoInputs.cache
+C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\obj\Debug\net9.0\projeto-bytebank.AssemblyInfo.cs
+C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\obj\Debug\net9.0\projeto-bytebank.csproj.CoreCompileInputs.cache
+C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\obj\Debug\net9.0\projeto-bytebank.dll
+C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\obj\Debug\net9.0\refint\projeto-bytebank.dll
+C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\obj\Debug\net9.0\projeto-bytebank.pdb
+C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\obj\Debug\net9.0\projeto-bytebank.genruntimeconfig.cache
+C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\obj\Debug\net9.0\ref\projeto-bytebank.dll
