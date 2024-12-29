@@ -12,3 +12,4 @@ C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\obj\Debug\net9.0\refi
 C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\obj\Debug\net9.0\projeto-bytebank.pdb
 C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\obj\Debug\net9.0\projeto-bytebank.genruntimeconfig.cache
 C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\obj\Debug\net9.0\ref\projeto-bytebank.dll
+C:\Users\55119\OneDrive\Documentos\GitHub\projeto-bytebank\obj\Debug\net9.0\projeto-bytebank.sourcelink.json
